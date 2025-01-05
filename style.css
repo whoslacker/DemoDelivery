@@ -60,7 +60,7 @@ main section {
 
 /* First Section (hero section) */
 main section:first-of-type {
-    background: url('/bg.png') no-repeat center center/cover;
+    background: url('bg.png') no-repeat center center/cover;
     filter:brightness(0.8);
     color: #ffffff;
     min-height: 60vh;
